@@ -1,0 +1,14 @@
+../Core/Src/main.c:28:6:UART_Init	4	static
+../Core/Src/main.c:47:6:UART_TransmitString	24	static
+../Core/Src/main.c:59:6:UART_TransmitFloat	120	static
+../Core/Src/main.c:70:5:__io_putchar	16	static
+../Core/Src/main.c:76:5:main	24	static
+../Core/Src/main.c:103:6:TemperatureTask	24	static
+../Core/Src/main.c:127:6:I2C_Init	4	static
+../Core/Src/main.c:152:6:I2C_Start	4	static
+../Core/Src/main.c:159:6:I2C_Stop	4	static
+../Core/Src/main.c:166:6:I2C_SendByte	16	static
+../Core/Src/main.c:171:9:I2C_ReceiveByte	4	static
+../Core/Src/main.c:176:6:AHT25_ReadData	24	static
+../Core/Src/main.c:194:6:AHT25_SendCommand	16	static
+../Core/Src/main.c:208:7:AHT25_ConvertTemperature	24	static
